@@ -21,8 +21,8 @@ book:
     - content/adding-refs.qmd
     - content/references.qmd
 
-  page-footer:
-    right: "This page is built with [Quarto](https://quarto.org/)."
+  #page-footer:
+    #right: "This page is built with [Quarto](https://quarto.org/)."
     #left: "&copy; CC-1.0"
   
   sidebar:
